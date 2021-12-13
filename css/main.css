@@ -1,0 +1,16 @@
+.btn {
+	padding: 6px;
+	display: inline-block;
+	border-radius: 6px;
+	background-color: #9f9f;
+	outline: none;
+	border: none;
+	cursor: pointer;
+
+}
+.form-add-task input {
+	width: 350px;
+}
+.hide {
+	display: none;
+}
